@@ -1,0 +1,257 @@
+[
+  {
+    "id"    : 1,
+    "type"  : 1,
+    "title" : "Мэдээллийн аюулгүй байдал",
+    "subtitle" : "Дадлага хичээл : Сүлжээний орчинд ажиллахад анхаарах зүйлс"
+  },
+  {
+    "id"    : 2,
+    "type"  : 2,
+    "title" : "Сайн нууц үг",
+    "subtitle" : "",
+    "body" : [
+      {
+        "item" : "Үсэг, тоо, тусгай тэмдэгт холилдсон,10-с дээш урттай",
+        "descr" : ""
+      },
+      {
+        "item" : "Санахад хялбар",
+        "descr" : ""
+      }
+    ],
+    "child" : [
+      {
+        "id"    : 3,
+        "type"  : 2,
+        "title" : "Сайн нууц үг",
+        "subtitle" : "",
+        "body" : [
+          {
+            "item" : "Алхам 1 - Солих дүрэм зохиох",
+            "descr" : "S - > $ , i -> 1, 0 -> O, A - > &, A - @, B - 8\n9 -> E, 1 -> l,  3 -> E\nBatbold -> 8&tb0ld   ,\nDamdinbayar ->  D&md1n8&y&r"
+          }
+        ]
+      },
+      {
+        "id"    : 4,
+        "type"  : 2,
+        "title" : "Сайн нууц үг",
+        "subtitle" : "Хамгийн сайн мэддэг, мартдаггүй зүйлээр нууц үгээ сонгох (Монгол үг) + Нөгөө дүрэм",
+        "body" : [
+          {
+            "item" : "Хамааралгүй + УРТ хүний нэр байж болно",
+            "descr" : "Богджавзандамба, Мандухайсэцэн,..."
+          },
+          {
+            "item" : "Газар усны нэр",
+            "descr" : "Хөвсгөлдалай, Ихбогдхайрхан, Алтайтаванбогд..."
+          }
+        ]
+      },
+      {
+        "id"    : 5,
+        "type"  : 2,
+        "title" : "Сайн нууц үг",
+        "subtitle" : "Монгол өгүүлбэрээр нууц үг зохиох",
+        "body" : [
+          {
+            "item" : "Дуртай дуу / шүлэг",
+            "descr" : "ДарханМанайТусгаарУлс, ДаяМонАриГол,... \nДмтуДмагДидгүДэүм"
+          },
+          {
+            "item" : "Байршил заасан өгүүлбэр",
+            "descr" : "Ихдэлгүүрийнбаруунхойдталд, Баруун4замынурд, ДарханыЗамдУрьхан, Циркийнбаруунталынхаалга"
+          }
+        ]
+      },
+      {
+        "id"    : 6,
+        "type"  : 2,
+        "title" : "Сайн нууц үг",
+        "subtitle" : "",
+        "body" : [
+          {
+            "item" : "Нууц үгээ хэр найдвартай эсэхийг шалгах",
+            "descr" : ""
+          },
+          {
+            "item" : "Жинхэнэ нууц үгээ биш хэсгийг нь шалгах",
+            "descr" : "ДарханМанайТусгаарУлс ==> D&rkhanM@na1"
+          },
+          {
+            "item" : "https://password.kaspersky.com/",
+            "descr" : "D&rkhanM@na1  => 4 centuries\nYour password will be bruteforced with an average home computer in approximately "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id"    : 7,
+    "type"  : 2,
+    "title" : "SHARE үйлдлийн аюул",
+    "subtitle" : "",
+    "body" : [
+      {
+        "item" : "Хүмүүс дотоод сүлжээнд SHARE хийсэн мэдээллээ тэр чигт нь орхидог",
+        "descr" : ""
+      },
+      {
+        "item" : "Дотоод сүлжээнд SHARE хийснээ мартаад Public WIFI хэрэглэх",
+        "descr" : "Түр хугацаанд нээгээд буцаагаад унтрааж байх ёстой"
+      },
+      {
+        "item" : "Дотоод сүлжээнд мэдээлэл SHARE хийхдээ энгийн нууц үг ашигладаг",
+        "descr" : "Дотоод сүлжээнд нэвтэрсэн хэн нэгэн тайлах боломжтой\nЭсвэл хэн нэгэн ажилтны компьютер вирустэй бол таны хялбархан нууц үг бүхий Folder-т байнга довтлох боломжтой"
+      },
+      {
+        "item" : "123456 => 0 seconds  , 123456789 – 3 seconds, 123456314 – 10 second, 99191215 -1sec",
+        "descr" : "Toshiba => 3 hours,  Qwerty – 3 seconds, Ministry = 35 minutes"
+      }
+
+    ],
+    "child" : [
+      {
+        "id"    : 8,
+        "type"  : 2,
+        "title" : "SHARE үйлдлийн аюул",
+        "subtitle" : "",
+        "body" : [
+          {
+            "item" : "Hack Windows 10 password",
+            "descr" : "",
+            "video" : "https://www.youtube.com/watch?v=a4OyqaqFDW0"
+          },
+          {
+            "item" : "Hacking Windows pc using smb Login exploit",
+            "descr" : "",
+            "video" : "https://www.youtube.com/watch?v=bgAGCD3lI-4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id"    : 9,
+    "type"  : 2,
+    "title" : "WIFI сүлжээ маш аюултай",
+    "subtitle" : "",
+    "body" : [
+      {
+        "item" : "Байгууллагын мэдээллийг ойр хавиас нь ХУЛГАЙЛАХ, устгах, хакердах боломж",
+        "descr" : ""
+      },
+      {
+        "item" : "Хувийн маш үнэ цэнэтэй мэдээллээ алдах,  хохирол амсах",
+        "descr" : ""
+      }
+    ],
+    "child" : [
+      {
+        "id"    : 10,
+        "type"  : 2,
+        "title" : "WIFI сүлжээ маш аюултай",
+        "subtitle" : "WiFi цацагч төхөөрөмж ашигладаг бол",
+        "body" : [
+          {
+            "item" : "Байнга шинэ төхөөрөмж ашиглах /WEP – Хакер 2 мин/",
+            "descr" : "WEP   ->    WPA   ->  WPA2  ->  WPA 3"
+          },
+          {
+            "item" : "Админ нууц үгээ хүчтэй нууц үг хийх",
+            "descr" : ""
+          },
+          {
+            "item" : "MAC хаягаар хязгаарлах",
+            "descr" : ""
+          },
+          {
+            "item" : "Хүчтэй Wireless Password өгөх",
+            "descr" : "Хэрэв СУЛ бол танай сүлжээнд хэн нэгэн нэвтэрч ороод сүлжээгээр дамжиж буй PACKET-уудыг барьж авах эрсдэл үүснэ\nЖишээ: A***A нэртэй монгол залуу WiFi сүлжээндээ нэвтэрсэн хэрэглэгчийн фэйсбүүк болон бүх мэдээллийг олж авсан"
+          }
+        ]
+      },
+      {
+        "id"    : 11,
+        "type"  : 2,
+        "title" : "WIFI сүлжээ маш аюултай",
+        "subtitle" : "",
+        "body" : [
+          {
+            "item" : "WPA2 security hacked",
+            "descr" : "KRACK - Key Reinstallation Attacks: Forcing Nonce Reuse in WPA2",
+            "video" : "https://www.youtube.com/watch?v=fOgJswt7nAc"
+
+          }
+        ]
+      },
+      {
+        "id"    : 12,
+        "type"  : 2,
+        "title" : "WIFI сүлжээ маш аюултай",
+        "subtitle" : "",
+        "body" : [
+          {
+            "item" : "WPA2 security hacked",
+            "descr" : "Cracking WPA/WPA2 networks with Aircrack-ng",
+            "video" : "https://www.youtube.com/watch?v=9Cizhdz4RGE"
+
+          }
+        ]
+      },
+      {
+        "id"    : 13,
+        "type"  : 2,
+        "title" : "Public WIFI сүлжээ бүр ч их АЮУЛТАЙ",
+        "subtitle" : "",
+        "body" : [
+          {
+            "item" : "Public WIFI сүлжээ аюултай",
+            "descr" : "TomNtoms, Caffe Bene...\nОнгоцны буудал, Зочид буудал, Ресторан, Starbucks..."
+          },
+          {
+            "item" : "Хакерын сүлжээг ашиглавал бүүр ч их аюултай",
+            "descr" : ""
+          },
+          {
+            "item" : "Хакерууд ойролцоо газар ижил нэртэй Public Wifi үүсгэж өгөөш тавьдаг, тэгээд таны бүх сүлжээ ашиглалтыг хянадаг",
+            "descr" : "International Airport Wifi Public 1\nStarbuck 2"
+          },
+          {
+            "item" : "Public Wifi ашиглан алдах эрсдэлтэй мэдээллүүд",
+            "descr" : "Банкны нэвтрэх нэр, нууц үг\nКредит/Debit картын мэдээлэл\nСошиал нэвтрэх нэр, нууц үг …"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id"    : 14,
+    "type"  : 2,
+    "title" : "Dark net , Dark web ?",
+    "subtitle" : "",
+    "body" : [
+      {
+        "item" : "ХАКЕР кино ?",
+        "descr" : ""
+      },
+      {
+        "item" : "Кредит картны мэдээлэл зарагддаг уу ?",
+        "descr" : ""
+      },
+      {
+        "item" : "Данснаасаа мөнгө алдаж байсан эсэх ?",
+        "descr" : ""
+      },
+      {
+        "item" : "Онлайн төлбөр тооцоо хийж байсан эсэх ?",
+        "descr" : ""
+      },
+      {
+        "item" : "Tor ? DuckDuckGo ? Kali Linux ? Whonix ? Tails ?",
+        "descr" : ""
+      }
+    ]
+  }
+]

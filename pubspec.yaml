@@ -1,0 +1,145 @@
+name: lms_app
+description: A new Flutter application.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.3
+  async: ^2.4.1
+  get_it: ^6.0.0
+  flutter_screenutil: ^1.1.0
+  font_awesome_flutter: ^8.8.1
+  mongol: ^0.4.1
+  stacked: ^1.9.6
+  cached_network_image: ^2.2.0+1
+  flutter_staggered_grid_view: ^0.3.0
+  flutter_rating_bar: ^3.0.1+1
+  flutter_svg: ^0.22.0
+  socket_io_client: ^0.9.12
+  image_gallery_saver: ^1.5.0
+  permission_handler: ^5.1.0+2
+  animated_floatactionbuttons: ^0.1.0
+  open_file: ^3.0.3
+  quiver: ^2.1.5
+  get: ^3.26.0
+  http: ^0.12.2
+  url_launcher: ^5.4.0
+  multi_select_flutter: ^4.0.0
+  protoo_client: ^0.3.1
+  random_words: ^1.0.2
+  random_string: ^2.3.1
+  flutter_webrtc: ^0.6.6
+  flutter_bloc: ^7.0.1
+  equatable: ^2.0.3
+  expandable_bottom_sheet: ^1.1.1+1
+  provider: ^5.0.0
+  mediasoup_client_flutter:
+    git: https://github.com/Blancduman/mediasoup-client-flutter
+  #  socket_io_client: ^0.9.12
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/efe-kurnaz.png
+    #    - assets/images/rodion-kutsaev.jpeg
+    #    - assets/images/steve-johnson.jpeg
+    #    - assets/images/windows10.jpg
+    #    - assets/images/ios.jpg
+    - assets/images/logo.png
+    - assets/images/board.jpg
+    - assets/images/slide.jpg
+    - assets/images/online.jpg
+    #    - assets/images/database.jpg
+    #    - assets/images/dataGraphic.jpg
+    #    - assets/images/digital.jpg
+    #    - assets/images/excel.jpg
+    #    - assets/images/kiber-security.jpg
+    #    - assets/images/newTehnology.jpg
+    #    - assets/images/post.jpg
+    #    - assets/images/powerpoint.jpg
+    #    - assets/images/signature.jpg
+    #    - assets/images/img1.jpg
+    #    - assets/images/img2.jpg
+    #    - assets/images/img3.jpg
+    #    - assets/images/img4.jpg
+    #    - assets/images/img5.jpg
+    #    - assets/images/img6.jpg
+    - assets/images/stateHouse.jpg
+    - assets/images/images.png
+    - assets/images/background.jpg
+    - assets/images/live.jpg
+    - assets/lesson.json
+    - assets/quiz.json
+    - assets/images/userImage1.png
+    - assets/images/userImage2.png
+    - assets/images/userImage3.png
+    - assets/images/userImage4.png
+    - assets/images/userImage5.png
+    - assets/images/userImage6.png
+    - assets/images/userImage7.png
+    - assets/images/userImage8.png
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  fonts:
+    - family: NunitoRegular
+      fonts:
+        - asset: assets/fonts/Nunito-Regular.ttf
+    - family: NunitoSemiBold
+      fonts:
+        - asset: assets/fonts/Nunito-SemiBold.ttf
+    - family: NunitoBold
+      fonts:
+        - asset: assets/fonts/Nunito-Bold.ttf
+
+
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
